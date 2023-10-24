@@ -11,7 +11,9 @@
 📫 你可以加我的微信：KoEkko
 
 
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoEkko" />
 
+<img align="right" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=KoEkko&show_icons=true&count_private=false&theme=vue-dark" />
 
 
 
