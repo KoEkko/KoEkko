@@ -10,7 +10,11 @@
 
 📫 你可以加我的微信：KoEkko
 
+实习经历：
+1. 深信服科技 2023年5月-7月
+2. 北京开源芯片研究院 一生一芯项目 2023年7月-至今
 
+   
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoEkko" />
 
 <img align="right" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=KoEkko&show_icons=true&count_private=false&theme=vue-dark" />
