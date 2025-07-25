@@ -2,17 +2,16 @@
 
 👉 A Front-end developer
 
-🌱 目前大三智能科学与技术在读
-
-😄 从22年9月份正式开始学习的前端
-
 💬 语雀 博客: [KoEkko·语雀](https://www.yuque.com/jjia)
 
 📫 你可以加我的微信：KoEkko
 
 实习经历：
 1. 深信服科技 2023年5月-6月
-2. 北京开源芯片研究院 一生一芯项目 2023年7月-至今
+2. 北京开源芯片研究院 2023年7月-2025年4月
+
+工作经历：
+1. 中国科学院计算技术研究所 2025年7月-至今
 
    
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoEkko" />
